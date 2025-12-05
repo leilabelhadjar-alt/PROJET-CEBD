@@ -1,0 +1,4 @@
+DROP VIEW IF EXISTS LesAgesSportifs;
+DROP VIEW IF EXISTS LesNbsEquipiers;
+DROP VIEW IF EXISTS AgeMoyenEquipesOr;
+DROP VIEW IF EXISTS ClassementPays;
