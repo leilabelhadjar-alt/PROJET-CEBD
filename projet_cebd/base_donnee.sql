@@ -3,7 +3,6 @@ CREATE TABLE IF NOT EXISTS Disciplines(
     CONSTRAINT pk_nom_di PRIMARY KEY (nom_discipline)
 );
 
-
 CREATE TABLE IF NOT EXISTS Epreuves(
     num_epreuve INTEGER NOT NULL,
     nom_epreuve TEXT NOT NULL,
